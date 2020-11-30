@@ -4,7 +4,7 @@ module.exports = {
   siteMetadata: {
     title: 'Κέντρο Λογοθεραπείας Κωνσταντίνα Χρ. Κανδρή',
     description:
-      'Brittany Chiang is a software engineer specializing in building (and occasionally designing) exceptional websites, applications, and everything in between.',
+      'έντρο Λογοθεραπείας Κωνσταντίνα Χρ. Κανδρή is a software engineer specializing in building (and occasionally designing) exceptional websites, applications, and everything in between.',
     siteUrl: 'https://brittanychiang.com', // No trailing slash allowed!
     image: '/og.png', // Path to your image you placed in the 'static' folder
     twitterUsername: '@bchiang7',
