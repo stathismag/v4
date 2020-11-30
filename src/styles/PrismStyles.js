@@ -21,7 +21,7 @@ const PrismStyles = css`
   * and overflow that we removed from <pre>.
   */
   .gatsby-highlight {
-    background-color: ${prismColors.bg};
+    background-color: ${prismColors.red};
     color: ${prismColors.variable};
     border-radius: var(--border-radius);
     margin: 2em 0;
